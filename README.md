@@ -3,7 +3,7 @@
 
 I'm Grace Best. I'm a third-year student at Princeton University currently studying Computer Science B.S.E.
 
-- 🔭 I’m currently working on a [research project](https://github.com/jomboi8/Cross-Lingual-Information-Retrieval/tree/main) 
+- 🔭 I’m currently working on a [research project](https://github.com/jomboi8/Cross-Lingual-Information-Retrieval/tree/main) building off of [summer research](https://github.com/jomboi8/TaitaCLIR)
 - 🌱 I’m currently learning to implement RAGs
 - 📫 Find me on: [LinkedIn](https://www.linkedin.com/in/grace-best-codes/)
 - 😄 Pronouns: she/her
